@@ -17,3 +17,8 @@ source_metadata:
       parent: Prayers to Guru Rinpoche
 created_at: '2022-03-01T01:04:34.420032'
 last_modified_at: '2022-03-01T01:04:34.420034'
+statistics:
+  total_words: 2928
+  total_non_words: 141
+quality:
+  non_words_ratio: 0.05
